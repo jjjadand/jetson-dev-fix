@@ -1,3 +1,3 @@
-sudo chmod +x <filename>
+sudo chmod +x <<filename>>
 
-sudo ./<filename>
+sudo ./ <<filename>>
